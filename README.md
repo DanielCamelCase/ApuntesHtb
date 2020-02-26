@@ -1,7 +1,7 @@
 # ApuntesHtb
 apuntes sobre pentest para htb
 
-https://raw.githubusercontent.com/DanielCamelCase/ApuntesHtb/blob/master/imagenes/Xd2qWx5.jpg
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 
 <a name="top"></a>
 # Título de nuestro documento
