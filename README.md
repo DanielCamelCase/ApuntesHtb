@@ -12,10 +12,9 @@
 * [Contenido 3](#item3)
 * [Contenido 4](#item4)
 ## Fase de Explotacion en WEB 
- * [Contenido 3](#item5)
-* [Contenido 4](#item6)
+* [Contenido 5](#item5)
+* [Contenido 6](#item6)
  
-Lorem ipsum dolor
  
 <a name="item1"></a>
 ### Contenido 1
@@ -54,14 +53,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 [Subir](#top)
 
 <a name="item5"></a>
-### Contenido 1
+### Contenido 5
  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  
 [Subir](#top)
  
 <a name="item6"></a>
-### Contenido 2
+### Contenido 6
  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  
