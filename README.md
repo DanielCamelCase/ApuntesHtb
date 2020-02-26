@@ -1,10 +1,10 @@
 # ApuntesHtb
 apuntes sobre pentest para htb
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/DanielCamelCase/ApuntesHtb/blob/master/imagenes/Xd2qWx5.jpg)
+![Imagen de HTB](https://github.com/DanielCamelCase/ApuntesHtb/blob/master/imagenes/Xd2qWx5.jpg)
 
 <a name="top"></a>
-# Título de nuestro documento
+# Tabla de referencia de los contenidos para visualizacion rapida
  
 ## Índice de contenidos
 * [Contenido 1](#item1)
